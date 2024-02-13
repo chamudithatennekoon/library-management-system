@@ -25,4 +25,10 @@ public class BookController {
     public Iterable<BookEntity> getBooks(){
         return service.getBooks();
     }
+
+    @DeleteMapping("/{id}")
+    public void deleteBook(@PathVariable Long id){
+        service.deleteBook(id);
+    }
+
 }
