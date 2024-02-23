@@ -3,8 +3,6 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 P
  src/main/java/edu/icet/Main.java,d\0\d002a3b1d8a24022d8d1caea45cff0fbd6d07b61
-[
-+src/main/java/edu/icet/controller/Book.java,3\d\3d3c3add31b6d3707c6f186684606f2691ee270b
 M
 library-management-system.iml,0\0\000908f9702b23986fbfc51c6c979c18c430328c
 T
